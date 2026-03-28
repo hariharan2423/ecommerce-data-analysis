@@ -42,8 +42,20 @@ Implemented **K-Means Clustering** to segment customers based on their spending 
 
 ## 📷 Project Output
 
-(Add screenshots below 👇)
+### 📊 Top Products
+![Top Products](top_products.png)
 
+### 🥧 Category Sales
+![Category](category_sales.png)
+
+### 📈 Monthly Sales
+![Monthly](monthly_sales.png)
+
+### 👥 Customer Segmentation
+![Segmentation](customer_segmentation.png)
+
+### 💻 Project Code
+![Code](project_code.png)
 ---
 
 ## 🎯 Conclusion
